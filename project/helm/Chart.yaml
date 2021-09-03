@@ -1,0 +1,9 @@
+apiVersion: v1
+name: techtrends
+description: argocd exercise
+keywords:
+- techtrends
+version: 1.0.0
+maintainers:
+- name: cfav
+  email: cfav@xyz.com 
